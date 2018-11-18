@@ -4,40 +4,45 @@ A note taking application using the command line. This project was used to get t
 to build a basic note taking application.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+### Prerequisite
 
-
-```
-Give examples
-```
+NodeJs installed on your machine
 
 ### Installing
 
 Clone the repo
 ```
 git clone https://github.com/mauriceLC92/Node-Notes-App.git
-```
-```
 cd Node-Notes-App
-```
-```
 node app.js
 ```
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+## Usage:
+* Add a new note
+```sh
+node app.js add --t="<note title>" --b="<note body>"
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+* Read a note
+```sh
+node app.js read --t="<note title>"
+```
+
+* List all notes
+```sh
+node app.js list
+```
+
+* Remove a note
+```sh
+node app.js remove --title="<note title>"
+```
+
+* Get help commands
+```sh
+node app.js --help
 
 ## Built With
 
@@ -47,4 +52,3 @@ End with an example of getting some data out of the system or using it for a lit
 ## Authors
 
 * **Maurice Le Cordier**
-
