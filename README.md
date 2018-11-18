@@ -49,6 +49,6 @@ node app.js --help
 
 * [NodeJs](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-## Usage:
+## Author:
 
 * **Maurice Le Cordier**
