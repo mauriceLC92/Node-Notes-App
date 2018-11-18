@@ -1,5 +1,4 @@
 /* eslint-disable no-console */
-console.log('Starting notes.js...');
 const fs = require('fs');
 
 const fetchNotes = () => {
