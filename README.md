@@ -43,12 +43,12 @@ node app.js remove --title="<note title>"
 * Get help commands
 ```sh
 node app.js --help
+```
 
 ## Built With
 
 * [NodeJs](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-
-## Authors
+## Usage:
 
 * **Maurice Le Cordier**
