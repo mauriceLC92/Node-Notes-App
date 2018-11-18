@@ -9,8 +9,14 @@
   "author": "Maurice Le Cordier",
   "license": "ISC",
   "dependencies": {
+    "eslint-config-airbnb": "^17.1.0",
     "lodash": "^4.17.10",
     "nodemon": "^1.17.5",
     "yargs": "^4.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }

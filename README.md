@@ -1,10 +1,20 @@
 # Node-Notes-App
 
-One Paragraph of project description goes here
+A note taking application using the command line. This project was used to get to know the basics of Node and use ES6 syntax
+to build a basic application.
 
 ## Getting Started
+ THIS NEEDS TO BE MODIFIED ASAP to show how a lproper readme file should with all markdown applied
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Clone the repo
+
+cd into the prpject
+
+npm i
+
+run the app.js file
 
 ### Prerequisites
 
