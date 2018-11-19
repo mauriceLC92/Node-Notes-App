@@ -16,6 +16,7 @@ Clone the repo
 ```
 git clone https://github.com/mauriceLC92/Node-Notes-App.git
 cd Node-Notes-App
+npm i
 node app.js
 ```
 
